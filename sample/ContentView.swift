@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello There!")
+            Text("Kenobi to General Grievous")
         }
         .padding()
         //Star Wars Fun
